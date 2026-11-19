@@ -1,0 +1,151 @@
+attendee_id,name,event,date,rating,comment,follow_up_status
+1000,Attendee 1,Resume Clinic,2026-05-08,2,The venue was too crowded,Pending
+1001,Attendee 2,Tech Talk,2026-09-03,3,Decent event but could be better,Not needed
+1002,Attendee 3,Tech Talk,2026-02-07,4,Great speakers and very informative,Pending
+1003,Attendee 4,Tech Talk,2026-09-07,5,Friendly team and smooth registration,Not needed
+1004,Attendee 5,Coding Workshop,2026-08-19,5,"Very useful content, learned a lot",Done
+1005,Attendee 6,Resume Clinic,2026-07-11,1,Event started late,Done
+1006,Attendee 7,Career Panel,2026-02-03,3,It was okay overall,Done
+1007,Attendee 8,Career Panel,2026-10-09,2,Sound quality was poor,Pending
+1008,Attendee 9,Tech Talk,2026-07-03,5,Friendly team and smooth registration,Not needed
+1009,Attendee 10,Career Panel,2026-10-07,4,Friendly team and smooth registration,Not needed
+1010,Attendee 11,Resume Clinic,2026-04-25,2,The venue was too crowded,Done
+1011,Attendee 12,Tech Talk,2026-07-09,2,Event started late,Done
+1012,Attendee 13,Career Panel,2026-06-07,4,Well organized and engaging,Not needed
+1013,Attendee 14,Alumni Meet,2026-03-18,4,Great speakers and very informative,Not needed
+1014,Attendee 15,Hackathon Kickoff,2026-07-09,3,It was okay overall,Not needed
+1015,Attendee 16,Resume Clinic,2026-06-27,5,Well organized and engaging,Pending
+1016,Attendee 17,Career Panel,2026-07-09,3,It was okay overall,Pending
+1017,Attendee 18,Resume Clinic,2026-06-07,3,Decent event but could be better,Not needed
+1018,Attendee 19,Resume Clinic,2026-08-05,5,"Very useful content, learned a lot",Done
+1019,Attendee 20,Resume Clinic,2026-09-18,3,It was okay overall,Done
+1020,Attendee 21,Alumni Meet,2026-07-12,5,"Very useful content, learned a lot",Pending
+1021,Attendee 22,Hackathon Kickoff,2026-02-25,3,Decent event but could be better,Pending
+1022,Attendee 23,Resume Clinic,2026-03-26,2,Event started late,Not needed
+1023,Attendee 24,Tech Talk,2026-07-13,4,Friendly team and smooth registration,Not needed
+1024,Attendee 25,Career Panel,2026-09-28,5,Friendly team and smooth registration,Pending
+1025,Attendee 26,Career Panel,2026-06-04,2,Registration process was confusing,Done
+1026,Attendee 27,Hackathon Kickoff,2026-01-24,4,Well organized and engaging,Not needed
+1027,Attendee 28,Coding Workshop,2026-09-04,4,Friendly team and smooth registration,Not needed
+1028,Attendee 29,Alumni Meet,2026-04-05,4,Friendly team and smooth registration,Done
+1029,Attendee 30,Alumni Meet,2026-01-20,3,Decent event but could be better,Done
+1030,Attendee 31,Tech Talk,2026-06-27,5,Great speakers and very informative,Done
+1031,Attendee 32,Coding Workshop,2026-10-03,3,It was okay overall,Pending
+1032,Attendee 33,Alumni Meet,2026-03-05,5,Great speakers and very informative,Not needed
+1033,Attendee 34,Coding Workshop,2026-05-17,5,Friendly team and smooth registration,Not needed
+1034,Attendee 35,Alumni Meet,2026-04-23,4,Well organized and engaging,Done
+1035,Attendee 36,Hackathon Kickoff,2026-09-15,4,Loved the hands-on activities,Pending
+1036,Attendee 37,Tech Talk,2026-06-01,3,It was okay overall,Not needed
+1037,Attendee 38,Alumni Meet,2026-04-01,5,Well organized and engaging,Pending
+1038,Attendee 39,Tech Talk,2026-01-28,1,Event started late,Done
+1039,Attendee 40,Coding Workshop,2026-05-22,2,Registration process was confusing,Done
+1040,Attendee 41,Coding Workshop,2026-10-19,3,Decent event but could be better,Done
+1041,Attendee 42,Hackathon Kickoff,2026-04-04,3,"Some parts were good, some were slow",Pending
+1042,Attendee 43,Hackathon Kickoff,2026-07-15,4,Loved the hands-on activities,Not needed
+1043,Attendee 44,Tech Talk,2026-07-24,1,The venue was too crowded,Done
+1044,Attendee 45,Coding Workshop,2026-04-18,2,Event started late,Done
+1045,Attendee 46,Coding Workshop,2026-05-15,3,"Some parts were good, some were slow",Pending
+1046,Attendee 47,Alumni Meet,2026-02-02,2,Too much content in too little time,Not needed
+1047,Attendee 48,Tech Talk,2026-04-06,5,Great speakers and very informative,Done
+1048,Attendee 49,Coding Workshop,2026-07-02,5,"Very useful content, learned a lot",Pending
+1049,Attendee 50,Hackathon Kickoff,2026-05-26,4,Great speakers and very informative,Done
+1050,Attendee 51,Resume Clinic,2026-09-22,4,"Very useful content, learned a lot",Not needed
+1051,Attendee 52,Coding Workshop,2026-05-07,5,Well organized and engaging,Pending
+1052,Attendee 53,Tech Talk,2026-06-02,5,Friendly team and smooth registration,Pending
+1053,Attendee 54,Alumni Meet,2026-09-06,5,"Very useful content, learned a lot",Pending
+1054,Attendee 55,Coding Workshop,2026-02-20,5,Great speakers and very informative,Pending
+1055,Attendee 56,Tech Talk,2026-10-08,3,"Some parts were good, some were slow",Not needed
+1056,Attendee 57,Alumni Meet,2026-02-14,5,Great speakers and very informative,Not needed
+1057,Attendee 58,Alumni Meet,2026-06-09,5,Friendly team and smooth registration,Pending
+1058,Attendee 59,Career Panel,2026-07-05,4,Well organized and engaging,Not needed
+1059,Attendee 60,Career Panel,2026-02-01,4,"Very useful content, learned a lot",Done
+1060,Attendee 61,Tech Talk,2026-02-18,5,Friendly team and smooth registration,Pending
+1061,Attendee 62,Coding Workshop,2026-06-03,5,Loved the hands-on activities,Pending
+1062,Attendee 63,Coding Workshop,2026-08-27,4,Loved the hands-on activities,Not needed
+1063,Attendee 64,Resume Clinic,2026-09-01,4,Friendly team and smooth registration,Not needed
+1064,Attendee 65,Resume Clinic,2026-02-05,5,Loved the hands-on activities,Done
+1065,Attendee 66,Resume Clinic,2026-09-05,2,The venue was too crowded,Done
+1066,Attendee 67,Coding Workshop,2026-06-07,4,Friendly team and smooth registration,Not needed
+1067,Attendee 68,Hackathon Kickoff,2026-05-28,4,Friendly team and smooth registration,Pending
+1068,Attendee 69,Career Panel,2026-01-01,2,Too much content in too little time,Done
+1069,Attendee 70,Career Panel,2026-03-24,3,Decent event but could be better,Done
+1070,Attendee 71,Alumni Meet,2026-01-04,5,"Very useful content, learned a lot",Pending
+1071,Attendee 72,Tech Talk,2026-06-19,3,Decent event but could be better,Not needed
+1072,Attendee 73,Coding Workshop,2026-01-10,3,"Some parts were good, some were slow",Done
+1073,Attendee 74,Coding Workshop,2026-04-22,1,Sound quality was poor,Pending
+1074,Attendee 75,Hackathon Kickoff,2026-10-24,4,Friendly team and smooth registration,Pending
+1075,Attendee 76,Coding Workshop,2026-07-01,3,It was okay overall,Pending
+1076,Attendee 77,Resume Clinic,2026-04-09,4,"Very useful content, learned a lot",Pending
+1077,Attendee 78,Tech Talk,2026-08-08,2,Too much content in too little time,Pending
+1078,Attendee 79,Career Panel,2026-04-08,5,Loved the hands-on activities,Pending
+1079,Attendee 80,Career Panel,2026-05-28,3,"Some parts were good, some were slow",Pending
+1080,Attendee 81,Resume Clinic,2026-09-13,4,Loved the hands-on activities,Not needed
+1081,Attendee 82,Tech Talk,2026-02-09,5,Loved the hands-on activities,Pending
+1082,Attendee 83,Tech Talk,2026-02-20,5,Loved the hands-on activities,Done
+1083,Attendee 84,Hackathon Kickoff,2026-10-17,4,Loved the hands-on activities,Pending
+1084,Attendee 85,Coding Workshop,2026-05-02,4,Friendly team and smooth registration,Not needed
+1085,Attendee 86,Alumni Meet,2026-09-22,4,Great speakers and very informative,Not needed
+1086,Attendee 87,Hackathon Kickoff,2026-02-22,3,"Some parts were good, some were slow",Done
+1087,Attendee 88,Resume Clinic,2026-02-24,5,Loved the hands-on activities,Done
+1088,Attendee 89,Resume Clinic,2026-07-11,5,Loved the hands-on activities,Done
+1089,Attendee 90,Coding Workshop,2026-04-14,4,Friendly team and smooth registration,Not needed
+1090,Attendee 91,Alumni Meet,2026-10-10,4,Well organized and engaging,Done
+1091,Attendee 92,Career Panel,2026-05-07,5,Great speakers and very informative,Done
+1092,Attendee 93,Resume Clinic,2026-06-15,5,Friendly team and smooth registration,Done
+1093,Attendee 94,Alumni Meet,2026-08-26,5,Well organized and engaging,Not needed
+1094,Attendee 95,Tech Talk,2026-05-17,3,Decent event but could be better,Not needed
+1095,Attendee 96,Tech Talk,2026-04-22,5,Loved the hands-on activities,Done
+1096,Attendee 97,Coding Workshop,2026-01-02,3,It was okay overall,Pending
+1097,Attendee 98,Tech Talk,2026-08-14,5,Friendly team and smooth registration,Not needed
+1098,Attendee 99,Resume Clinic,2026-07-16,5,Well organized and engaging,Done
+1099,Attendee 100,Resume Clinic,2026-01-25,3,It was okay overall,Pending
+1100,Attendee 101,Coding Workshop,2026-09-15,4,Well organized and engaging,Pending
+1101,Attendee 102,Tech Talk,2026-08-05,5,Well organized and engaging,Done
+1102,Attendee 103,Alumni Meet,2026-06-25,5,Friendly team and smooth registration,Done
+1103,Attendee 104,Hackathon Kickoff,2026-09-15,5,Friendly team and smooth registration,Pending
+1104,Attendee 105,Career Panel,2026-04-27,5,"Very useful content, learned a lot",Not needed
+1105,Attendee 106,Hackathon Kickoff,2026-04-09,4,Friendly team and smooth registration,Done
+1106,Attendee 107,Coding Workshop,2026-05-11,2,Sound quality was poor,Done
+1107,Attendee 108,Coding Workshop,2026-03-08,5,Great speakers and very informative,Done
+1108,Attendee 109,Coding Workshop,2026-02-14,3,Decent event but could be better,Done
+1109,Attendee 110,Hackathon Kickoff,2026-07-02,4,Friendly team and smooth registration,Pending
+1110,Attendee 111,Alumni Meet,2026-01-28,4,"Very useful content, learned a lot",Not needed
+1111,Attendee 112,Tech Talk,2026-06-10,4,"Very useful content, learned a lot",Done
+1112,Attendee 113,Resume Clinic,2026-09-26,4,Friendly team and smooth registration,Not needed
+1113,Attendee 114,Coding Workshop,2026-05-14,3,"Some parts were good, some were slow",Done
+1114,Attendee 115,Career Panel,2026-07-24,1,Too much content in too little time,Pending
+1115,Attendee 116,Alumni Meet,2026-09-01,5,Well organized and engaging,Done
+1116,Attendee 117,Resume Clinic,2026-01-03,5,Friendly team and smooth registration,Not needed
+1117,Attendee 118,Hackathon Kickoff,2026-03-02,4,Well organized and engaging,Done
+1118,Attendee 119,Coding Workshop,2026-08-11,4,Loved the hands-on activities,Done
+1119,Attendee 120,Hackathon Kickoff,2026-05-27,4,Loved the hands-on activities,Pending
+1120,Attendee 121,Resume Clinic,2026-09-02,5,Great speakers and very informative,Done
+1121,Attendee 122,Tech Talk,2026-01-25,3,Decent event but could be better,Pending
+1122,Attendee 123,Tech Talk,2026-10-05,3,It was okay overall,Pending
+1123,Attendee 124,Resume Clinic,2026-02-19,3,"Some parts were good, some were slow",Pending
+1124,Attendee 125,Career Panel,2026-03-20,5,Loved the hands-on activities,Not needed
+1125,Attendee 126,Career Panel,2026-02-19,2,Event started late,Pending
+1126,Attendee 127,Resume Clinic,2026-07-13,4,Friendly team and smooth registration,Not needed
+1127,Attendee 128,Alumni Meet,2026-04-04,3,It was okay overall,Not needed
+1128,Attendee 129,Tech Talk,2026-10-26,4,Friendly team and smooth registration,Pending
+1129,Attendee 130,Hackathon Kickoff,2026-06-03,4,Friendly team and smooth registration,Not needed
+1130,Attendee 131,Hackathon Kickoff,2026-08-04,4,Great speakers and very informative,Done
+1131,Attendee 132,Resume Clinic,2026-03-14,4,"Very useful content, learned a lot",Pending
+1132,Attendee 133,Alumni Meet,2026-09-25,5,Loved the hands-on activities,Done
+1133,Attendee 134,Resume Clinic,2026-10-09,5,"Very useful content, learned a lot",Done
+1134,Attendee 135,Career Panel,2026-08-08,3,It was okay overall,Done
+1135,Attendee 136,Resume Clinic,2026-07-11,5,Friendly team and smooth registration,Pending
+1136,Attendee 137,Coding Workshop,2026-08-07,5,Loved the hands-on activities,Done
+1137,Attendee 138,Career Panel,2026-10-23,4,Loved the hands-on activities,Done
+1138,Attendee 139,Alumni Meet,2026-04-03,5,Great speakers and very informative,Pending
+1139,Attendee 140,Alumni Meet,2026-04-23,4,"Very useful content, learned a lot",Done
+1140,Attendee 141,Tech Talk,2026-02-10,5,"Very useful content, learned a lot",Pending
+1141,Attendee 142,Career Panel,2026-10-12,4,Well organized and engaging,Done
+1142,Attendee 143,Career Panel,2026-07-24,5,Friendly team and smooth registration,Not needed
+1143,Attendee 144,Resume Clinic,2026-08-09,4,Loved the hands-on activities,Done
+1144,Attendee 145,Tech Talk,2026-04-11,4,Well organized and engaging,Pending
+1145,Attendee 146,Coding Workshop,2026-04-24,5,Well organized and engaging,Done
+1146,Attendee 147,Alumni Meet,2026-10-10,4,Friendly team and smooth registration,Pending
+1147,Attendee 148,Coding Workshop,2026-06-06,3,"Some parts were good, some were slow",Done
+1148,Attendee 149,Coding Workshop,2026-05-02,1,Registration process was confusing,Pending
+1149,Attendee 150,Resume Clinic,2026-03-21,5,Loved the hands-on activities,Done
